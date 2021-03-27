@@ -6,5 +6,10 @@ I have experimented with several features I have not done in the past:
 - Super Mario World styled goal and level end bonus game
 - Levels generator by chunks
 
+
 Download: https://mfgg.net/index.php?act=resdb&param=03&c=2&id=32585
-Video as a demostration: https://www.youtube.com/watch?v=4UFX4T44c3M
+
+Video of the game: https://www.youtube.com/watch?v=4UFX4T44c3M
+
+
+DISCLAIMER: This is a just for fun fan made open source project I never intended to make any profit from it. Mario and many elements in this belongs to Nintendo and other respective owners. 
