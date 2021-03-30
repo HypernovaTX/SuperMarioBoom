@@ -12,4 +12,4 @@ Download: https://mfgg.net/index.php?act=resdb&param=03&c=2&id=32585
 Video of the game: https://www.youtube.com/watch?v=4UFX4T44c3M
 
 
-DISCLAIMER: This is a just for fun fan made open source project I never intended to make any profit from it. Mario and many elements in this belongs to Nintendo and other respective owners. 
+DISCLAIMER: This is a just for fun fan made open source project I never intended to make any profit from it. Mario and many elements in this belongs to Nintendo and other respective owners. Some assets are custom edited by myself with some that are found throughout MFGG, SMWC, VG Resources, and other video game resources sites.
